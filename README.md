@@ -8,16 +8,18 @@
 
 ## Hardware
 
-image du schéma
-image du montage
+![schema](https://user-images.githubusercontent.com/119617467/225370488-6271a042-6221-4861-844b-a10b39e0fdbb.png)
+
+![TP](https://user-images.githubusercontent.com/119617467/225370558-c965f550-88f2-440f-83af-3ae1d8a72772.jpeg)
+
 
 ## Demo
 
-video de demo
+https://user-images.githubusercontent.com/119617467/225370617-b25fc2a3-de2d-4d66-9fc8-b333962f49bc.mp4
 
 ## Recherches
 
-<p>Ce projet se base sur un gros travail de recherche sur des systèmes déjà existants tel que l'hololens. Vous pouvez retrouver l'ensemble des recherches dans le [rapport](Rapport.pdf).</p>
+Ce projet se base sur un gros travail de recherche sur des systèmes déjà existants tel que l'hololens. Vous pouvez retrouver l'ensemble des recherches dans le [rapport](Rapport.pdf).
 
 ## License
 
